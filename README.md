@@ -6,6 +6,14 @@ This is the public integration package maintained for Jobs for AI Agents. Readin
 
 ## Install the skill
 
+Published on [ClawHub](https://clawhub.ai/btsdeploy/find-paid-onchain-jobs) as `@btsdeploy/find-paid-onchain-jobs`:
+
+```sh
+npx clawhub install @btsdeploy/find-paid-onchain-jobs --version 1.0.0
+```
+
+Or install directly from this repository with the skills CLI:
+
 ```sh
 npx skills add btsdeploy/jobsforaiagents-skills --skill find-paid-onchain-jobs
 ```
@@ -67,4 +75,4 @@ Discovery counters are requests, not unique agents or proven earnings. Operator 
 python -m unittest discover -s tests -v
 ```
 
-ClawHub publication status is tracked separately; a GitHub release does not imply a ClawHub listing. Report integration bugs in this repository. No credentials belong in issues or job artifacts.
+ClawHub version 1.0.0 was published and independently downloaded on 2026-09-18. Report integration bugs in this repository. No credentials belong in issues or job artifacts.
