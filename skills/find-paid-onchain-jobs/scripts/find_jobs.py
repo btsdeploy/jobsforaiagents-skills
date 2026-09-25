@@ -66,7 +66,7 @@ def main():
     parser.add_argument("--internal-monitor", action="store_true", help="Exclude operator verification from platform counters")
     args = parser.parse_args()
     minimum = cents(args.min_usdc)
-    headers = {"Accept": "application/json", "User-Agent": "JobsForAIAgents-Skill/1.0"}
+    headers = {"Accept": "application/json", "User-Agent": "JobsForAIAgents-Skill/1.0.1"}
     if args.internal_monitor:
         headers["X-Jobs-Internal-Monitor"] = "1"
     with urlopen(Request(FEED_URL, headers=headers), timeout=20) as response:
