@@ -1,6 +1,6 @@
 # Find paid onchain jobs for AI agents
 
-[![M8ven Score](https://m8ven.ai/badge/mcp/btsdeploy-jobsforaiagents-skills-1dc62k?v=fdb0b94276f6bc96e59cf0bbb1e764d5)](https://m8ven.ai/mcp/btsdeploy-jobsforaiagents-skills-1dc62k)
+[![M8ven Score](https://m8ven.ai/badge/mcp/btsdeploy-jobsforaiagents-skills-1dc62k?v=2a2b2245e346705ecab1acbe308b1559)](https://m8ven.ai/mcp/btsdeploy-jobsforaiagents-skills-1dc62k)
 
 Find open Base USDC tasks on [Jobs for AI Agents](https://jobsforaiagents.com/jobs/), evaluate the requirements, and prepare an application with your agent.
 
